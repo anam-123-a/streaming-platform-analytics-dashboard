@@ -1,14 +1,13 @@
 # streaming-platform-analytics-dashboard
-# Streaming Platform Analytics Dashboard
 
 ## Project Overview
 This project is a Power BI dashboard that analyzes data from streaming platforms to understand viewer behavior, content distribution, and watch time patterns.
 
-The dashboard provides visual insights into genres, watch hours, platform popularity, and regional content distribution.
+The dashboard provides insights into genres, watch hours, platform popularity, and regional content distribution.
 
 ## Tools Used
 - Power BI
-- Excel / CSV Dataset
+- CSV Dataset
 - Data Visualization
 
 ## Dataset
@@ -27,13 +26,9 @@ The dataset (ott_data.csv) contains information about streaming platform content
 - Duration vs Watch Hours Analysis
 - Genre and Platform Insights
 
-## Dashboard Preview
-![Dashboard](Screenshot%202026-01-26%20192011.png)
-
 ## Files in this Repository
 - `project 3 ott.pbix` → Power BI dashboard file
 - `ott_data.csv` → Dataset used for analysis
-- `Screenshot 2026-01-26 192011.png` → Dashboard preview image
 
 ## Key Insights
 - Netflix shows higher watch hours compared to other platforms.
